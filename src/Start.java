@@ -15,6 +15,7 @@ public class Start {
 
         }else {
             System.out.println(count2);
+            System.out.println(count2);
         }
     }
 }
